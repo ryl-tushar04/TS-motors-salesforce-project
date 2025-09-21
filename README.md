@@ -217,9 +217,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👤 Author
 
-**Your Name**
+**Tushar Saxena**
 - GitHub: [@ryl-tushar04](https://github.com/ryl-tushar04)
-
+- LinkedIn: [@tushar-saxena0410](https://www.linkedin.com/in/tushar-saxena0410/)
 ## Acknowledgments
 
 - Salesforce Developer Community
